@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>A Basic Port Scanner</b>
- - (https://github.com/SubodhBagde/Basic_Port_Scanner/blob/main/README.md)
+- <b>[A Basic Port Scanner](https://github.com/SubodhBagde/Basic_Port_Scanner/blob/main/README.md)</b>
 
 <h2>📄 Certifications:</h2> 
 
