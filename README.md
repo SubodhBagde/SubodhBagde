@@ -7,6 +7,8 @@
 
 <h2>📄 Certifications:</h2> 
 
+- [EC-Council Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/certificate/75cd551c-ddca-451f-8e9d-ada4d56eab76?logged=true)
+- [EC-Council Network Defense Essentials (NDE)](https://codered.eccouncil.org/certificate/e1acb69e-ac38-46d0-95d2-1f360d8138f7?logged=true)
 - [Coursera - Foundations of Cybersecurity](https://coursera.org/share/bbecb4e656485ab1e1adc82a78cec4ab)
 - [Udemy - Mastering SQL Injection](https://ude.my/UC-c94d782d-f3b2-43fc-bbea-01bd941b007d)
 - [Cisco - Networking Basics](https://www.credly.com/badges/bbcbca26-11ba-4466-bae2-8e96147b9448/linked_in_profile)
