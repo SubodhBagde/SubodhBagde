@@ -1,26 +1,19 @@
-<h1>Hi, I'm Subodh! <br/><a href="https://github.com/SubodhBagde">Student</a>, <a href="www.linkedin.com/in/subodhbagde">Cybersecurity Enthusiast</a>, <a href="https://tryhackme.com/p/subodhbagde2017">CTF Player</a><a </a></h1>
+<h1 align="center">Hi 👋, I'm Subodh</h1>
+<h3 align="center">I'm passionate about 🌐Cloud Security and ☁️AWS.</h3>
 
-<h2>👨‍💻 IT Projects:</h2>
+- 🌱 I’m currently learning **AWS**
 
-- <b>[A Basic Port Scanner](https://github.com/SubodhBagde/Basic_Port_Scanner/blob/main/README.md)</b>
-- <b>[Password Complexity Checker](https://github.com/SubodhBagde/Password-Complexity-Checker)<b/>
+- 👨‍💻 All of my projects are available at [https://github.com/SubodhBagde?tab=repositories](https://github.com/SubodhBagde?tab=repositories)
 
-<h2>📄 Certifications:</h2> 
+- 📝 I regularly write articles on [https://medium.com/@subodhbagde2017](https://medium.com/@subodhbagde2017)
 
-- [EC-Council Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/certificate/75cd551c-ddca-451f-8e9d-ada4d56eab76?logged=true)
-- [EC-Council Network Defense Essentials (NDE)](https://codered.eccouncil.org/certificate/e1acb69e-ac38-46d0-95d2-1f360d8138f7?logged=true)
-- [Coursera - Foundations of Cybersecurity](https://coursera.org/share/bbecb4e656485ab1e1adc82a78cec4ab)
-- [Udemy - Mastering SQL Injection](https://ude.my/UC-c94d782d-f3b2-43fc-bbea-01bd941b007d)
-- [Cisco - Networking Basics](https://www.credly.com/badges/bbcbca26-11ba-4466-bae2-8e96147b9448/linked_in_profile)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@subodhbagde57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@subodhbagde57" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subodh bagde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subodh bagde" height="30" width="40" /></a>
+<a href="https://medium.com/@subodhbagde2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subodhbagde2017" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/subodhbagde2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subodhbagde2017" height="30" width="40" /></a>
+</p>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="SubodhBagde57 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="subodhbagde| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="subodhbagde57 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/SubodhBagde57
-[instagram]: https://www.instagram.com/subodhbagde57/
-[linkedin]: www.linkedin.com/in/subodhbagde
-
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
