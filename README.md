@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Subodh</h1>
-<h3 align="center">I'm passionate about 🌐Cloud Security and ☁️AWS.</h3>
+# Hi 👋, I'm Subodh
 
-- 🌱 I’m currently learning **AWS**.
+<br />
 
-- 📖 Pursuing my Bachelor's in CSE (AIML) from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/). 
+- ### 🌐 I'm passionate about Cloud Security.
 
-- 📝 Follow me for tech related blogs on [Medium](https://medium.com/@subodhbagde2017).
+- ### 🌱 I’m currently learning **AWS**.
 
+- ### 📖 Pursuing my Bachelor's in CSE (AIML) from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/). 
+
+- ### 📝 Follow me for tech related blogs on [Medium](https://medium.com/@subodhbagde2017).
+
+<br />
 
 ## 🧑🏻‍💻 Tech Stack
 
@@ -25,7 +29,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<br />
 
 ## 🤝 Connect with me
 
