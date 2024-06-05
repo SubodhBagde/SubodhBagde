@@ -1,29 +1,23 @@
 <h1 align="center">Hi 👋, I'm Subodh</h1>
 <h3 align="center">I'm passionate about 🌐Cloud Security and ☁️AWS.</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS**.
 
 - 📖 Pursuing my Bachelor's in CSE (AIML) from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/). 
 
-- 📝 I regularly write articles on [https://medium.com/@subodhbagde2017](https://medium.com/@subodhbagde2017)
-
-### 🚀 Languages
+- 📝 Follow me for tech related blogs on [Medium](https://medium.com/@subodhbagde2017).
 
 
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-### 🧑🏻‍💻 Tools & Platform
+## 🧑🏻‍💻 Tech Stack
 
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -33,7 +27,7 @@
 
 
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 
 <p>
 	<a href="https://www.linkedin.com/in/subodhbagde/">
