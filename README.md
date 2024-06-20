@@ -53,7 +53,7 @@
  
 <p align="center">
     <a href="https://github.com/SubodhBagde/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubodhBagde&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubodhBagde&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
@@ -61,5 +61,5 @@
 
 
   <br/>
-    <a href="https://github.com/SubodhBagde/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubodhBagde&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubodhBagde/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhBagde&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubodhBagde/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubodhBagde&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=0DF70D" /></a>
+  <a href="https://github.com/SubodhBagde/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhBagde&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=0DF70D" /></a>
