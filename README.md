@@ -1,7 +1,5 @@
 # Hi 👋, I'm Subodh
 
-<br />
-
 - ### 🌐 I'm passionate about Cloud Security.
 
 - ### 🌱 I’m currently learning **AWS**.
